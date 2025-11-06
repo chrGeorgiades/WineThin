@@ -3,7 +3,7 @@
 # Check if no arguments were provided
 if [ $# -eq 0 ]; then
     #echo "Error: No arguments provided"
-    echo "Usage: wine_thin <executable>"
+    echo "Usage: winethin <executable>"
     exit 1
 fi
 
