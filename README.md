@@ -9,4 +9,4 @@ Run application in a thin:
 winethin <executable>
 ```
 
-The wrapper will create a local wine directory in the directory of the executable. The created wine thin will be hidden in the directory of executable. 
+The wrapper will create a local wine directory in the directory of the executable. The created wine thin will be hidden in the directory of executable. All executables in a directory will share the same wine thin.
